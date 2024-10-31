@@ -6,8 +6,6 @@ import { GenerateContent } from '../../application/useCases/gemini/GenerateConte
 async function generateContent(req: Request, res: Response) {
   const { prompt } = req.body;
 
-  console.log('prompt', prompt);
-
   const generateContentUseCase = new GenerateContent(geminiGateway);
   const result = await generateContentUseCase.execute(prompt);
 
