@@ -12,7 +12,7 @@
 
 ## About The Project
 
-Este projeto faz uma conexão com o gemini api que através de um prompt ele retorna o conteúdo desejado.
+This project makes a connection with the gemini api which through a prompt returns the desired content.
 
 ### Built With
 
@@ -32,21 +32,21 @@ Este projeto faz uma conexão com o gemini api que através de um prompt ele ret
 
 ### Installation
 
-1. Para usar a API Gemini, você precisa de uma chave de API. [Obter uma chave de API](https://ai.google.dev/gemini-api/docs/api-key?hl=pt-br&_gl=1*70sd7f*_up*MQ..&gclid=Cj0KCQjw1Yy5BhD-ARIsAI0RbXaXltujnnrCTEmS9CDtitBkbXe1-C8dSycDA7779ksKsKBbwAt9IKAaAkuMEALw_wcB)
-2. Clone o repo
+1. To use the Gemini API, you need an API key. [Get an API key](https://ai.google.dev/gemini-api/docs/api-key?hl=pt-br&_gl=1*70sd7f*_up*MQ..&gclid=Cj0KCQjw1Yy5BhD-ARIsAI0RbXaXltujnnrCTEmS9CDtitBkbXe1-C8dSycDA7779ksKsKBbwAt9IKAaAkuMEALw_wcB)
+2. Clone the repo
    ```sh
    git clone https://github.com/agathaemm/generic-gemini-api.git
    ```
-3. Instale as dependencias
+3. Install dependencies
    ```sh
    npm install
    ```
-4. Crie o arquivo .env a partir do arquivo .env.example e adicione a porta que deseja rodar o projeto e a chave de api gerada
+4. Create the .env file from the .env.example file and add the port you want to run the project on and the generated API key
    ```js
    PORT = 'ENTRER YOUR PORT';
    GEMINI_API_KEY = 'ENTER YOUR API';
    ```
-5. Para iniciar o projeto rode
+5. Start project with
    ```sh
    npm run dev
    ```
