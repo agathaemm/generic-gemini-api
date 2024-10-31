@@ -16,10 +16,10 @@ Este projeto faz uma conexão com o gemini api que através de um prompt ele ret
 
 ### Built With
 
-- Node[https://nodejs.org/pt]
-- TypeScript[https://www.typescriptlang.org/]
-- Express[https://expressjs.com/pt-br/]
-- Gemini [https://ai.google.dev/gemini-api/docs/quickstart?hl=pt-br&_gl=1*1sg42mu*_up*MQ..&gclid=Cj0KCQjw1Yy5BhD-ARIsAI0RbXaXltujnnrCTEmS9CDtitBkbXe1-C8dSycDA7779ksKsKBbwAt9IKAaAkuMEALw_wcB&lang=node]
+- [Node](https://nodejs.org/pt)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Express](https://expressjs.com/pt-br/)
+- [Gemini](https://ai.google.dev/gemini-api/docs/quickstart?hl=pt-br&_gl=1*1sg42mu*_up*MQ..&gclid=Cj0KCQjw1Yy5BhD-ARIsAI0RbXaXltujnnrCTEmS9CDtitBkbXe1-C8dSycDA7779ksKsKBbwAt9IKAaAkuMEALw_wcB&lang=node)
 
 <!-- GETTING STARTED -->
 
